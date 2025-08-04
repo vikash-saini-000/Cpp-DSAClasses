@@ -72,6 +72,7 @@ int main() {
     //     num /= 10;
     // }
     // cout << res << endl;
+    //raam
 
     //Check if a number is Prime or not
     int num = 49;
